@@ -15,7 +15,7 @@ console.log(3+
      // boolean => true or false
 
      //null => standalone value
-     // undefined =>
+     // undefined => value is not assigned yet
      // symbol => unique
 
 
@@ -27,3 +27,4 @@ console.log(3+
 
 console.log((typeof undefined))// outupt= undefined
 console.log(typeof null )// outuput= object
+
